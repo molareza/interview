@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interview</string>
+    <string name="add_user">Add user</string>
+    <string name="please_enter_your_first_name">Please enter your first name</string>
+    <string name="please_enter_your_last_name">Please enter your last name</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+
+</resources>
